@@ -1,5 +1,5 @@
 package testScripts;
 
-public class TestClass {
+public class A {
 
 }
