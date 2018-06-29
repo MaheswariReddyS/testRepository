@@ -1,4 +1,4 @@
-package testRepository;
+package testScripts;
 
 public class TestClass12 {
 
